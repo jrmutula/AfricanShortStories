@@ -265,63 +265,40 @@ h1, h3, h4, h5, p {
 
 /*
   ========================================
-  Leads
+  Products
   ========================================
 */
-
-.lead {
-  text-align: center;
-}
-.lead p {
-  font-size: 21px;
-  line-height: 33px;
+.products{
+	text-align: center;
+	font-size: 20px;
+	color: green;
 }
 
-/*
-  ========================================
-  Home
-  ========================================
-*/
-
-.hero {
-  color: #fff;
-  line-height: 44px;
-  padding: 22px 80px 66px 80px;
-  text-align: center;
-}
-.hero h2 {
-  font-size: 36px;
-}
-.hero p {
-  font-size: 24px;
-  font-weight: 100;
+.ilmg{
+    width: 300px;
+    height: 300px;
+	padding: 40px;
 }
 
-.teaser a:hover h3 {
-  color: #a9b2b9;
+.inl{
+	display: inline-block;
+	width: 30%;
+	vertical-align: top;
+	margin: 8px;
+
 }
 
-.teaser img {
-  border-radius: 5px;
-  display: block;
-  margin-bottom: 22px;
-  max-width: 100%
+.log{
+	text-align: center;
+	width: ;
+	height: 50px;
+	display: block;
+	margin-bottom: 20px;
+	padding-bottom: 200px;
+	width:;
+	background: #000000;
 }
+#image{
 
-/*
-  ========================================
-  Navigation
-  ========================================
-*/
-
-.nav {
-  text-align: right;
-}
-.nav li {
-  display: inline-block;
-  margin: 0 10px;
-  vertical-align: top;
-}
-.nav li:last-child {
-  margin-right: 0;
+	background-image: url(grunge_brown_wallpaper_for_computer.jpg);
 }
